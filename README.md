@@ -12,7 +12,7 @@
 <br>
 
 ## 📖 Sobre
-Projeto realizado na disciplina de Laboratório de Hardware. Consiste em simular o funcionamento de dois semáforos em um cruzamento de ruas. Utilizando linguagem C nas suas funcionalidades e a ferramenta de modelagem 3D Tinkercad para a criação de circuitos que podem ser testados na placa Arduino Uno online.
+Projeto realizado na disciplina de Laboratório de Hardware. Consiste em simular o funcionamento de dois semáforos em um cruzamento de ruas. Utilizando linguagem C++ nas suas funcionalidades e a ferramenta de modelagem 3D Tinkercad para a criação de circuitos que podem ser testados na placa Arduino Uno online.
 
 ## 🖥️ Demonstração
 
@@ -24,5 +24,7 @@ Projeto realizado na disciplina de Laboratório de Hardware. Consiste em simular
 
 As seguintes ferramentas foram usadas na construção do projeto:
 
-- [C](https://devdocs.io/c/)
+- [Arduino](https://www.arduino.cc/reference/pt/)
 - [Tinkercad](https://www.tinkercad.com/)
+- [C++](http://www.cplusplus.com/)
+
